@@ -4,7 +4,7 @@ repo: orangerbotisstayinalive # The name of this repository
 
 sites:
   - name: OrangerBot
-    url: https://improved-oranger-bont.orangerdings.repl.co/
+    url: https://improved-oranger-bont.orangerdings.repl.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
